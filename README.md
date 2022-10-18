@@ -6,6 +6,9 @@
 - 🧗‍♂️ How to reach me<br>
         1. At linkedin: https://www.linkedin.com/in/adieverson-silva-589a62199/<br>
         2. or at e-mail: adieverson.pro@gmail.com
+## Some Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdieversonPro&show_icons=true&theme=vue-dark) 
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AdieversonPro&layout=default&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## Skills I'm Working On
 <div align="center">
