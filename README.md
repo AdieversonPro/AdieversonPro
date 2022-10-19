@@ -17,22 +17,22 @@
         
 ### To Manipulate Data  
         
-| <h5>Level</h5> | <img src=https://img.shields.io/badge/LEVEL-35%25-yellowgreen> | <img src=https://img.shields.io/badge/LEVEL-35%25-yellowgreen> | <img src=https://img.shields.io/badge/LEVEL-60%25-green> | 
+| <p font-size="14px">Level</p> | <img width="50px" width="100%" src=https://img.shields.io/badge/LEVEL-35%25-yellowgreen> | <img width="50px" src=https://img.shields.io/badge/LEVEL-35%25-yellowgreen> | <img width="50px" src=https://img.shields.io/badge/LEVEL-60%25-green> | 
 | :---: | :---: | :---: | :---: | 
-| <h5>Skill</h5> |<img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" alt="Python Language" style="height: 100px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/640px-R_logo.svg.png" alt="DATABSEEXP" style="height: 100px" > | <img src="https://kondado.com.br/assets/images/visualization_pentaho.png" alt="Pentaho CE" style="height: 150px"> |
+| <p font-size="14px">Skill</p> |<img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" alt="Python Language" style="height: 100px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/640px-R_logo.svg.png" alt="DATABSEEXP" style="height: 100px" > | <img src="https://kondado.com.br/assets/images/visualization_pentaho.png" alt="Pentaho CE" style="height: 150px"> |
 
 
 ### To Keep Data 
         
-| <h5>Level</h5> |  <img src=https://img.shields.io/badge/LEVEL-45%25-yellowgreen> | <img src=https://img.shields.io/badge/LEVEL-70%25-green> |
+| <p font-size="14px">Level</p>  |  <img width="50px" src=https://img.shields.io/badge/LEVEL-45%25-yellowgreen> | <img width="50px" src=https://img.shields.io/badge/LEVEL-70%25-green> |
 | :---: | :---: | :---: | 
-| <h5>Skill</h5> | <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL" style="height: 100px" > | <img src="https://cpl.thalesgroup.com/sites/default/files/content/paragraphs/intro/2020-03/postgresql-logo.png" alt="PostgreSQL" style="height: 100px" > | 
+| <p font-size="14px">Skill</p> | <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL" style="height: 100px" > | <img src="https://cpl.thalesgroup.com/sites/default/files/content/paragraphs/intro/2020-03/postgresql-logo.png" alt="PostgreSQL" style="height: 100px" > | 
 
 ### To See Data
         
-| <h5>Level</h5> | <img src=https://img.shields.io/badge/LEVEL-45%25-yellowgreen> |  <img src=https://img.shields.io/badge/LEVEL-70%25-green> | <img src=https://img.shields.io/badge/LEVEL-80%25-green> |
+| <p font-size="14px">Level</p>  | <img width="50px" src=https://img.shields.io/badge/LEVEL-45%25-yellowgreen> |  <img width="50px" src=https://img.shields.io/badge/LEVEL-70%25-green> | <img width="50px" src=https://img.shields.io/badge/LEVEL-80%25-green> |
 | :---: | :---: | :---: | :---: | 
-| <h5>Skill</h5> | <img src="https://steadyagency.com/wp-content/uploads/2019/01/qlik-sense-logo-2-300x205.png" alt="QlikSense" height="100px"> | <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="DATABSEEXP" style="height: 100px" > | <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="Google Data Studio" height="100px"> |</center>
+| <p font-size="14px">Skill</p> | <img src="https://steadyagency.com/wp-content/uploads/2019/01/qlik-sense-logo-2-300x205.png" alt="QlikSense" height="100px"> | <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="DATABSEEXP" style="height: 100px" > | <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="Google Data Studio" height="100px"> |</center>
 </div>
 
 
