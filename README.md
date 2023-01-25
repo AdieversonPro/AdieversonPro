@@ -15,7 +15,7 @@
 ### <p align="center">Skills I'm Working On
 <hr size=0.5>
 
-<p><img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<p align="center"><img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/640px-R_logo.svg.png">
 <img height="30px" src="https://media-exp1.licdn.com/dms/image/C4D12AQHQb0MEJXaOGg/article-cover_image-shrink_600_2000/0/1612074761836?e=2147483647&v=beta&t=QVp4kOx6wtgir6ou8cB_JHJQqSY9oTHQo5mXZtCDUzY">
 <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
